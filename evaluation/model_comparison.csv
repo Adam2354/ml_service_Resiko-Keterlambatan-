@@ -1,0 +1,4 @@
+Model,Accuracy,F1_Macro
+Logistic Regression,0.883,0.86
+Decision Tree,0.883,0.85
+Random Forest,0.967,0.966

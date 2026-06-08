@@ -1,0 +1,301 @@
+id,progres_skripsi,frekuensi_bimbingan_bulanan,keterlambatan_milestone_hari,streak_aktivitas_mingguan,jumlah_revisi_aktif,risiko_keterlambatan
+1,20,2,44,4,8,Berisiko
+2,18,1,50,4,7,Berisiko
+3,58,3,60,4,6,Berisiko
+4,35,0,51,0,3,Berisiko
+5,41,0,40,0,8,Berisiko
+6,39,3,1,7,0,On Track
+7,49,2,36,4,8,Berisiko
+8,14,2,17,4,7,Berisiko
+9,42,2,41,1,8,Berisiko
+10,95,2,13,2,5,Berisiko
+11,52,3,6,4,7,Cukup Aman
+12,75,3,19,3,7,Berisiko
+13,81,3,37,4,5,Berisiko
+14,58,3,44,4,3,Berisiko
+15,26,4,2,7,0,On Track
+16,34,5,3,6,1,On Track
+17,65,1,42,1,3,Berisiko
+18,85,3,55,3,8,Berisiko
+19,74,2,47,3,8,Berisiko
+20,44,3,37,3,4,Berisiko
+21,42,2,12,0,4,Berisiko
+22,27,5,1,6,1,On Track
+23,30,2,56,3,6,Berisiko
+24,70,3,39,4,8,Berisiko
+25,86,4,25,3,7,Berisiko
+26,61,2,40,1,6,Berisiko
+27,66,0,53,2,6,Berisiko
+28,52,0,24,3,4,Berisiko
+29,62,0,17,0,6,Berisiko
+30,79,0,51,1,4,Berisiko
+31,20,0,60,4,5,Berisiko
+32,43,0,7,4,0,Cukup Aman
+33,90,3,56,1,7,Berisiko
+34,33,3,49,1,7,Berisiko
+35,93,4,33,3,8,Berisiko
+36,25,1,49,2,7,Berisiko
+37,92,2,42,4,7,Berisiko
+38,53,0,18,3,3,Berisiko
+39,11,2,53,2,3,Berisiko
+40,8,3,32,2,6,Berisiko
+41,46,0,43,3,7,Berisiko
+42,40,0,13,2,6,Cukup Aman
+43,31,3,51,2,6,Berisiko
+44,81,1,55,0,7,Berisiko
+45,56,0,24,1,3,Berisiko
+46,87,0,40,1,6,Berisiko
+47,99,5,28,4,7,Berisiko
+48,71,1,22,1,6,Berisiko
+49,27,4,4,7,1,On Track
+50,54,2,23,2,4,Berisiko
+51,38,3,43,3,5,Berisiko
+52,64,1,32,4,6,Berisiko
+53,61,0,45,4,5,Berisiko
+54,17,1,26,0,3,Berisiko
+55,63,2,38,4,8,Berisiko
+56,28,0,34,1,5,Berisiko
+57,76,1,19,4,8,Berisiko
+58,40,1,48,2,7,Berisiko
+59,39,1,18,2,3,Berisiko
+60,60,1,18,0,5,Berisiko
+61,28,0,44,2,5,Berisiko
+62,80,0,30,2,4,Berisiko
+63,38,2,16,0,6,Berisiko
+64,37,3,12,0,3,Berisiko
+65,35,0,31,0,3,Berisiko
+66,92,2,32,3,7,Berisiko
+67,85,0,37,2,7,Berisiko
+68,91,3,32,0,6,Berisiko
+69,52,2,36,2,5,Berisiko
+70,12,3,13,2,8,Berisiko
+71,47,2,58,0,5,Berisiko
+72,58,2,49,0,7,Berisiko
+73,48,1,47,0,8,Berisiko
+74,19,1,51,0,3,Berisiko
+75,9,1,45,2,7,Berisiko
+76,87,2,13,3,7,Berisiko
+77,21,2,38,3,6,Berisiko
+78,35,3,54,1,4,Berisiko
+79,28,0,54,4,8,Berisiko
+80,76,3,28,1,4,Berisiko
+81,7,0,29,4,6,Berisiko
+82,58,2,32,1,8,Berisiko
+83,80,0,23,4,3,Berisiko
+84,88,2,33,4,8,Berisiko
+85,45,0,54,0,8,Berisiko
+86,36,3,15,1,8,Berisiko
+87,70,1,59,3,8,Berisiko
+88,51,1,47,2,5,Berisiko
+89,30,2,34,3,8,Berisiko
+90,63,3,55,4,5,Berisiko
+91,29,1,52,3,4,Berisiko
+92,67,0,34,4,8,Berisiko
+93,57,0,52,1,3,Berisiko
+94,43,2,46,2,4,Berisiko
+95,17,0,46,1,8,Berisiko
+96,79,2,48,0,6,Berisiko
+97,53,1,44,0,3,Berisiko
+98,23,3,33,4,5,Berisiko
+99,44,0,59,4,8,Berisiko
+100,29,1,30,2,7,Berisiko
+101,41,2,20,3,4,Berisiko
+102,85,0,50,3,6,Berisiko
+103,50,1,58,4,3,Berisiko
+104,87,4,37,1,5,Berisiko
+105,8,0,44,0,5,Berisiko
+106,13,2,31,1,7,Berisiko
+107,24,1,20,0,5,Berisiko
+108,67,0,58,0,6,Berisiko
+109,38,2,53,0,5,Berisiko
+110,65,3,19,4,7,Berisiko
+111,36,2,55,3,7,Berisiko
+112,49,0,16,0,6,Berisiko
+113,33,4,4,7,2,On Track
+114,46,3,44,4,5,Berisiko
+115,46,3,37,2,4,Berisiko
+116,30,3,26,2,5,Berisiko
+117,57,3,25,1,6,Berisiko
+118,77,1,39,2,5,Berisiko
+119,20,2,29,3,5,Berisiko
+120,23,2,26,2,4,Berisiko
+121,76,0,29,2,7,Berisiko
+122,63,3,37,0,7,Berisiko
+123,47,3,33,0,8,Berisiko
+124,68,1,39,2,8,Berisiko
+125,47,0,37,1,3,Berisiko
+126,39,2,20,2,7,Berisiko
+127,87,3,42,3,5,Berisiko
+128,6,0,60,1,8,Berisiko
+129,20,2,32,0,4,Berisiko
+130,35,4,0,5,2,On Track
+131,70,3,20,6,1,Cukup Aman
+132,24,2,26,3,4,Berisiko
+133,94,2,40,2,5,Berisiko
+134,77,3,57,4,8,Berisiko
+135,80,1,18,0,5,Berisiko
+136,58,0,23,4,8,Berisiko
+137,70,1,42,2,5,Berisiko
+138,49,2,50,3,5,Berisiko
+139,67,2,28,0,8,Berisiko
+140,67,1,13,3,5,Berisiko
+141,37,3,24,2,5,Berisiko
+142,70,3,31,1,7,Berisiko
+143,11,3,16,4,8,Berisiko
+144,73,2,42,4,3,Berisiko
+145,70,2,43,2,8,Berisiko
+146,88,3,34,0,5,Berisiko
+147,27,2,45,4,6,Berisiko
+148,85,0,50,1,3,Berisiko
+149,64,1,25,3,7,Berisiko
+150,97,5,26,1,5,Berisiko
+151,82,2,13,4,3,Cukup Aman
+152,70,2,7,6,5,Cukup Aman
+153,83,2,43,6,8,Berisiko
+154,24,3,17,4,2,Cukup Aman
+155,37,3,13,4,2,Cukup Aman
+156,78,2,7,2,2,Cukup Aman
+157,39,4,15,6,4,Cukup Aman
+158,89,1,9,3,5,Cukup Aman
+159,66,1,12,5,2,Cukup Aman
+160,61,2,16,6,1,Cukup Aman
+161,80,1,5,2,3,Cukup Aman
+162,93,3,40,2,6,Berisiko
+163,84,2,18,2,4,Cukup Aman
+164,45,3,2,6,1,On Track
+165,48,4,8,4,2,Cukup Aman
+166,88,4,16,5,4,Cukup Aman
+167,66,2,9,5,5,Cukup Aman
+168,81,1,8,3,1,Cukup Aman
+169,30,3,16,6,2,Cukup Aman
+170,34,2,8,5,2,Cukup Aman
+171,74,1,13,3,3,Cukup Aman
+172,34,3,4,6,1,On Track
+173,86,4,9,4,4,Cukup Aman
+174,37,1,17,3,5,Cukup Aman
+175,48,3,12,5,5,Cukup Aman
+176,52,4,8,4,3,Cukup Aman
+177,45,0,4,2,0,Cukup Aman
+178,87,1,18,4,3,Cukup Aman
+179,24,1,14,2,1,Cukup Aman
+180,87,4,14,2,4,Cukup Aman
+181,78,4,13,2,2,Cukup Aman
+182,60,2,5,2,4,Cukup Aman
+183,31,2,13,4,1,Cukup Aman
+184,37,3,1,6,0,On Track
+185,35,3,16,3,3,Cukup Aman
+186,54,0,15,4,0,Cukup Aman
+187,71,2,13,4,4,Cukup Aman
+188,25,4,8,6,2,Cukup Aman
+189,76,2,17,2,5,Cukup Aman
+190,80,4,12,6,1,Cukup Aman
+191,83,2,11,2,5,Cukup Aman
+192,79,2,9,3,5,Cukup Aman
+193,60,3,17,5,5,Cukup Aman
+194,23,3,14,6,2,Cukup Aman
+195,87,1,14,4,2,Cukup Aman
+196,29,2,12,5,1,Cukup Aman
+197,33,4,11,2,2,Cukup Aman
+198,45,1,9,3,5,Cukup Aman
+199,54,3,6,4,2,Cukup Aman
+200,24,2,16,6,1,Cukup Aman
+201,77,1,10,5,5,Cukup Aman
+202,24,2,15,5,1,Cukup Aman
+203,57,1,7,2,3,Cukup Aman
+204,46,1,9,6,1,Cukup Aman
+205,80,3,6,6,2,Cukup Aman
+206,90,2,12,2,5,Cukup Aman
+207,55,4,11,1,0,Cukup Aman
+208,31,2,5,2,4,Cukup Aman
+209,69,1,12,6,2,Cukup Aman
+210,41,2,7,6,2,Cukup Aman
+211,33,5,2,5,2,On Track
+212,79,1,5,4,1,Cukup Aman
+213,95,3,41,5,8,Berisiko
+214,61,2,12,6,1,Cukup Aman
+215,37,1,18,5,1,Cukup Aman
+216,83,4,15,6,3,Cukup Aman
+217,85,3,6,6,1,Cukup Aman
+218,52,2,6,5,2,Cukup Aman
+219,58,2,9,6,1,Cukup Aman
+220,80,1,4,1,7,Cukup Aman
+221,32,2,15,5,2,Cukup Aman
+222,46,2,15,2,3,Cukup Aman
+223,92,5,31,5,6,Berisiko
+224,22,4,14,4,2,Cukup Aman
+225,68,1,12,6,1,Cukup Aman
+226,32,2,18,4,4,Cukup Aman
+227,28,4,9,5,4,Cukup Aman
+228,58,3,12,6,4,Cukup Aman
+229,80,3,18,4,2,Cukup Aman
+230,33,1,8,3,3,Cukup Aman
+231,71,2,18,4,2,Cukup Aman
+232,32,2,11,3,5,Cukup Aman
+233,62,4,8,6,5,Cukup Aman
+234,58,4,16,4,3,Cukup Aman
+235,77,2,7,6,3,Cukup Aman
+236,24,2,9,3,4,Cukup Aman
+237,36,4,11,5,1,Cukup Aman
+238,59,1,17,6,5,Cukup Aman
+239,63,3,18,5,2,Cukup Aman
+240,88,3,17,6,5,Cukup Aman
+241,69,4,3,5,0,On Track
+242,78,5,3,6,1,On Track
+243,96,5,2,4,0,On Track
+244,55,3,1,7,3,On Track
+245,85,3,3,5,2,On Track
+246,83,4,23,4,6,Berisiko
+247,75,2,3,6,0,On Track
+248,78,3,2,6,0,On Track
+249,37,2,2,5,3,On Track
+250,77,2,5,4,1,On Track
+251,43,0,5,6,5,Cukup Aman
+252,36,4,1,5,3,On Track
+253,25,5,4,5,0,On Track
+254,36,2,5,7,3,On Track
+255,33,5,3,4,3,On Track
+256,33,3,0,7,0,On Track
+257,77,3,3,4,2,On Track
+258,94,3,3,4,2,On Track
+259,46,2,1,6,2,On Track
+260,80,2,5,5,2,On Track
+261,34,5,5,4,2,On Track
+262,65,5,4,6,1,On Track
+263,92,3,4,7,2,On Track
+264,29,4,4,7,2,On Track
+265,77,4,1,7,1,On Track
+266,70,4,2,6,0,On Track
+267,32,4,4,6,0,On Track
+268,40,4,3,7,3,On Track
+269,46,2,16,2,5,Cukup Aman
+270,99,4,4,7,2,On Track
+271,26,4,3,6,2,On Track
+272,86,2,2,7,3,On Track
+273,30,2,5,6,0,On Track
+274,39,4,3,6,3,On Track
+275,63,4,0,5,1,On Track
+276,94,2,4,6,3,Cukup Aman
+277,86,4,25,4,5,Berisiko
+278,52,0,13,5,8,Cukup Aman
+279,33,2,0,7,0,On Track
+280,42,5,4,4,2,On Track
+281,77,4,4,7,1,On Track
+282,31,5,2,5,2,On Track
+283,93,3,4,7,0,On Track
+284,33,5,4,7,3,On Track
+285,66,5,16,7,1,Cukup Aman
+286,41,5,1,6,3,On Track
+287,92,3,1,6,1,On Track
+288,62,2,0,5,3,On Track
+289,74,2,2,7,0,On Track
+290,26,4,4,4,2,On Track
+291,95,3,1,6,2,On Track
+292,36,4,4,4,0,On Track
+293,53,5,4,6,1,On Track
+294,46,3,1,6,0,On Track
+295,44,4,3,7,2,On Track
+296,49,3,1,6,3,On Track
+297,33,3,4,6,0,On Track
+298,96,4,1,6,3,On Track
+299,29,4,1,6,3,On Track
+300,75,2,1,6,0,On Track
